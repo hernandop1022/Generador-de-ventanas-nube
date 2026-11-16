@@ -1,0 +1,10 @@
+disenos*.json
+*.pdf
+*.png
+*.zip
+client_secret*
+credentials*
+tokens*
+.env*
+node_modules/
+__pycache__/
